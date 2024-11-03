@@ -7,39 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a highly motivated individual dedicated to contributing effectively to the education and research sectors. My commitment to fostering a friendly and cooperative environment is unwavering. I strive to apply my knowledge with utmost honesty and punctuality while exploring innovative solutions to complex challenges. With a strong foundation in research methodologies, writing, and presentation, I am well-prepared to make meaningful contributions to the advancement of knowledge and the betterment of society and institutions.
+# Welcome to My Professional Journey
 
-## Education and Training
+## About Me
 
-**PhD in Computer Science and Technology**  
-*Nanjing University of Science and Technology, China*  
-September 2024 – Ongoing  
-*Research Area: Bioinformatics*
+Greetings! I am MD Emran Hasan, a passionate researcher and educator dedicated to advancing knowledge in computer science and bioinformatics. My academic journey has taken me from Bangladesh to China, where I am currently pursuing a PhD in Computer Science and Technology at Nanjing University of Science and Technology.
 
-**MSc in Software Engineering**  
-*Northeastern University, China*  
-September 2020 – August 2021 (Online) || November 2022 – July 2024 (Offline)  
-*CGPA: 3.53/4.00*  
-*Thesis: Diabetic Disease Identification Algorithm Based on Data Mining*
+With a strong commitment to fostering innovation and collaboration, I aim to bridge the gap between technology and societal needs. My research focuses on utilizing data mining and machine learning techniques to tackle pressing health issues, particularly in mental health and diabetes. I believe that technology can be a powerful tool for positive change, and I strive to explore its potential in addressing real-world challenges.
 
-**BSc in Computer Science and Engineering**  
-*City University, Bangladesh*  
-May 2015 - August 2019  
-*CGPA: 3.74/4.00*  
-*Thesis: Automated Approach for Fruit Damage Detection and Classification*
+## My Vision
 
-## Research Experience
+In a world where technology continues to evolve at an unprecedented pace, I envision a future where cutting-edge research not only enhances our understanding of complex systems but also improves the quality of life for individuals and communities. My goal is to contribute to this vision through impactful research, engaging teaching, and active community involvement.
 
-### PhD Researcher  
-*Nanjing University of Science and Technology, China*  
-September 2024 – Present  
-Conducting research on bioinformatics with a focus on protein structure and small molecular complexes.
+## Research Interests
 
-### Graduate Researcher  
-*Northeastern University, China*  
-December 2022 – July 2024  
-Conducted research on enhancing diabetic retinopathy identification using data mining techniques.
+- **Bioinformatics:** Exploring the intersections of biology and data science to uncover insights that can lead to breakthroughs in healthcare.
+- **Machine Learning:** Applying advanced algorithms to analyze patterns and predict outcomes in various fields, including health informatics.
+- **Data Mining:** Utilizing data-driven approaches to extract valuable information from large datasets, particularly in mental health studies.
 
----
+## Let's Connect
 
-For a detailed overview of my research and publications, please refer to my CV or contact me directly.
+I invite you to explore my publications, research projects, and teaching endeavors. If you're interested in collaboration or have any questions, feel free to reach out! Together, we can work towards a future where technology serves humanity in meaningful ways.
