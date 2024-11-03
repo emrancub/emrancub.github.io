@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome to My Professional Journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome to My Professional Journey
+<div style="text-align: justify;">
 
 ## About Me
 
@@ -28,3 +28,5 @@ In a world where technology continues to evolve at an unprecedented pace, I envi
 ## Let's Connect
 
 I invite you to explore my publications, research projects, and teaching endeavors. If you're interested in collaboration or have any questions, feel free to reach out! Together, we can work towards a future where technology serves humanity in meaningful ways.
+
+</div>
