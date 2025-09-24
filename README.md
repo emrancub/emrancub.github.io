@@ -1,4 +1,4 @@
-# emrancub.github.io
+# Md Emran Hasan
 
 Personal site & portfolio of **Md Emran Hasan** — ML & Audio-AI projects, research, and contact.
 
@@ -35,4 +35,5 @@ portfolio personal-website github-pages machine-learning deep-learning audio-mac
 ## 📬 Contact
 
 Please contact **Md Emran Hasan** — [writetoemran@gmail.com](mailto:writetoemran@gmail.com) · [mdemranhasan@njust.edu.cn](mailto:mdemranhasan@njust.edu.cn).
+
 
